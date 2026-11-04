@@ -32,7 +32,7 @@ Trabalhamos com varejo, instituições financeiras, companhias de utilidade púb
 | 🛡️ **Proteção** | Seguros de qualquer ramo · Assistências 24h |
 | 🏥 **Saúde** | Planos de saúde e odontológicos |
 | 📈 **Finanças** | Consórcios · Capitalização · Previdência privada |
-| 🎓 **Assinaturas** | Streaming · Cursos online |
+| 🎓 **Digital** | Assinaturas |
 
 ## Segurança e privacidade
 
